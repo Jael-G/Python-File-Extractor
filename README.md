@@ -33,3 +33,5 @@ Run python script:
 ```
 python fileextractor.py
 ```
+
+Done! The script will create a folder called 'COPIES' where it will organize all the extracted folders!
