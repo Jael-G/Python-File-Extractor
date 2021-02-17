@@ -7,7 +7,7 @@ Python Script using Tkinter GUI that allows to copy the most common folders of W
 
 # Preview
 
-![Alt Text](nulllinkfornow)
+![Alt Text](https://github.com/Jael-G/Python-File-Extractor/commit/73f6b33f02776d819086980a8aee8d15a1c47dbb)
 
 # Folders it can copy:
 
